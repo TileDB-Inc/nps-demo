@@ -10,3 +10,18 @@ git clone https://github.com/TileDB-Inc/nps-demo
 cd nps-demo
 conda env create -f environment.yaml --force
 ```
+
+## Run Demo Notebook
+
+To run the notebook, activate the installed Conda environment:
+
+```
+source activate nps-demo
+jupyter-lab tiledb-lidar.ipynb
+```
+
+After exiting the notebook interface, deactivate the Conda environment with:
+
+```
+source deactivate nps-demo
+```
