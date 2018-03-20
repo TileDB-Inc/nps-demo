@@ -4,7 +4,6 @@ channels:
 dependencies:
  - python=3.6
  - tiledb
- - tiledb-py
  - jupyter
  - jupyterlab
  - numpy
@@ -15,3 +14,5 @@ dependencies:
  - ipyleaflet
  - ipywidgets
  - widgetsnbextension
+ - pip:
+   - git+https://git@github.com/TileDB-Inc/TileDB-Py.git@nps_demo
