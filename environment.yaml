@@ -4,9 +4,10 @@ channels:
 dependencies:
  - python=3.6
  - tiledb
+ - tiledb-py
  - jupyter
  - jupyterlab
- - numpy =1.12*
+ - numpy
  - pandas
  - pythreejs
  - ipyvolume
