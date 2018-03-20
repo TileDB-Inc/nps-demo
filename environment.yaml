@@ -1,0 +1,16 @@
+name: nps-demo
+channels:
+ - conda-forge
+dependencies:
+ - python=3.6
+ - tiledb
+ - jupyter
+ - jupyterlab
+ - numpy =1.12*
+ - pandas
+ - pythreejs
+ - ipyvolume
+ - seaborn
+ - ipyleaflet
+ - ipywidgets
+ - widgetsnbextension
