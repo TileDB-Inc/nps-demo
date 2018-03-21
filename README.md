@@ -17,7 +17,7 @@ To run the notebook, activate the installed Conda environment:
 
 ```
 source activate nps-demo
-jupyter-lab tiledb-lidar.ipynb
+jupyter notebook tiledb-lidar.ipynb
 ```
 
 After exiting the notebook interface, deactivate the Conda environment with:
