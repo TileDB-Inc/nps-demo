@@ -1,6 +1,8 @@
 # nps-demo
 NPS Contract Python Lidar Demo
 
+**Note**: This demo only works on Linux / MacOS platforms.
+
 ## Setup
 
 You need to install [Conda](https://conda.io/docs/) to install the environment / dependencies to run the demo.
