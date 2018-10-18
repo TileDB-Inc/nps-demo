@@ -1,6 +1,7 @@
 # nps-demo
 NPS Contract Python Lidar Demo
 
+
 **Note**: This demo only works on Linux / MacOS platforms.
 
 ## Setup
@@ -27,3 +28,7 @@ After exiting the notebook interface, deactivate the Conda environment with:
 ```
 source deactivate nps-demo
 ```
+
+## Acknowledgement
+
+This work was funded by a grant from the Naval Postgraduate School
